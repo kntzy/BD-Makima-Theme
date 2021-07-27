@@ -1,7 +1,7 @@
 # Tema Escuro - Makima ( CM ) para [BetterDiscord](https://betterdiscord.net)
 > Modificação do Tema ClearVision v6.1.1 // Por : kntzy
 
-![Screenshot](./screenshot.png)
+![Print](./cooc.png)
 
 ## Install
 
