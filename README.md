@@ -6,4 +6,11 @@
 ## Como obter ?
 
 Para obter, primeiro instale o [BetterDiscord](https://betterdiscord.app).
+
 ![Site do BetterDiscord](./print02.png)
+
+Após isso, salve o meu Tema aqui deste repositório ( TemaMakima.theme.css ).
+
+![Repositório do Tema](./print03.png)
+
+Vá em Configurações de Usuário -> Themes -> Open Themes Folder e 
