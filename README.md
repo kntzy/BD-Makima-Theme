@@ -6,3 +6,4 @@
 ## Como obter ?
 
 Para obter, primeiro instale o [BetterDiscord](https://betterdiscord.app).
+![Site do BetterDiscord](./print02.png)
