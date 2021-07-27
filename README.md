@@ -13,4 +13,9 @@ Após isso, salve o meu Tema aqui deste repositório ( TemaMakima.theme.css ).
 
 ![Repositório do Tema](./print03.png)
 
-Vá em Configurações de Usuário -> Themes -> Open Themes Folder e 
+Após isso, entre no Discord e vá em : Configurações de Usuário -> Themes -> Open Themes Folder
+> Lembrando que a Opção Folder só estará disponível no BetterDiscord, portanto baixe-o.
+
+Arraste o arquivo TemaMakima.theme.css para a pasta dos Temas e pronto, ative-o e pronto para usar.
+
+![Arraste o Arquivo](./print04.png)
